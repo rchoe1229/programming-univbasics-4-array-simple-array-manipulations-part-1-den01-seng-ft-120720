@@ -12,5 +12,5 @@ end
 
 def using_pop_with_args(array)
   array = ["Cat", "Dog", "Bird", "Fish"]
-  Fish, Bird = array.pop
+  "Fish", "Bird" = array.pop
 end
